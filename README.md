@@ -30,4 +30,4 @@ The long(er) version:
 * `cleanup.sh` cleans up auxiliary files, etc., in case your directory looks cluttered. Usage is `./cleanup.sh clean-dir` where `clean-dir` is a path to the directory you want cleaned up.
 
 
-<b id="f1">[1]</b> *When* you give me access is entirely up to you. Rest assured, I will not look at your repository before your submit your report unless you ask me to (and even then I may not). [↩](#a1)
+<b id="f1">[1]</b> *When* you give me access is entirely up to you. I will not look at your repository before your submit your report unless you ask me to (and even then I may not). [↩](#a1)
